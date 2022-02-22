@@ -1,12 +1,14 @@
 body {
   background: #eee;
   font-family: sans-serif;
+  display:flex;
 }
 
 .card {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+  padding: 10px 25px;
 }
 
 .title {
