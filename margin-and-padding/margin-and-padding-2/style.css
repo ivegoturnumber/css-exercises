@@ -1,7 +1,6 @@
 body {
   background: #eee;
   font-family: sans-serif;
-  display:flex;
 }
 
 .card {
@@ -26,4 +25,5 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
+  display:block;
 }
